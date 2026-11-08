@@ -17,9 +17,5 @@ An interactive Power BI dashboard designed to analyze sales performance across N
 - Power Query
 - Data Visualization
 
-## Dashboard Preview
-
-![North America Sales Dashboard](dashboard.png)
-
 ## Project Objective
 To transform sales data into meaningful business insights through interactive visualizations, enabling better performance monitoring and data-driven decision-making.
